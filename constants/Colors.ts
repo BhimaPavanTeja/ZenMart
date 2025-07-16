@@ -1,0 +1,45 @@
+export const Colors = {
+  primary: {
+    50: '#eff6ff',
+    100: '#dbeafe',
+    500: '#3b82f6',
+    600: '#2563eb',
+    700: '#1d4ed8',
+    900: '#1e3a8a',
+  },
+  secondary: {
+    50: '#f0fdf4',
+    100: '#dcfce7',
+    500: '#22c55e',
+    600: '#16a34a',
+    700: '#15803d',
+  },
+  accent: {
+    50: '#fff7ed',
+    100: '#ffedd5',
+    500: '#f97316',
+    600: '#ea580c',
+  },
+  neutral: {
+    50: '#fafafa',
+    100: '#f5f5f5',
+    200: '#e5e5e5',
+    300: '#d4d4d4',
+    400: '#a3a3a3',
+    500: '#737373',
+    600: '#525252',
+    700: '#404040',
+    800: '#262626',
+    900: '#171717',
+  },
+  success: '#22c55e',
+  warning: '#f59e0b',
+  error: '#ef4444',
+  background: '#ffffff',
+  surface: '#f8fafc',
+  text: {
+    primary: '#0f172a',
+    secondary: '#64748b',
+    muted: '#94a3b8',
+  }
+};
